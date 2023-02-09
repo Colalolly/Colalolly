@@ -1,34 +1,22 @@
 ### Hi there 👋
 
-:exclamation: Something important to visitors
+- :exclamation: Something important to visitors
 
-For throwing away my old incomprehensible username and starting a whole new era in my career as developer, I **change my username** in Feb 2023, 
+  At the moment created my account several yeas ago, I used a meaningless and odd username, 
 
-and therefore unfortunately **lost ALL my commits before February 2023** by the side effect which github items said.
+  For throwing away the old incomprehensible username and starting a whole new era in my career as developer, I **change my username** in Feb 2023, 
 
-I hope this action DON'T influence your impression about me.
+  and therefore unfortunately **lost ALL my commits before February 2023** by the side effect which github items said.
 
-THIS STATEMENT WILL BE DISCARDED IN 2025.
+  I hope this action DON'T influence your impression about me.
 
-*Colalolly* 02/2023
+  THIS STATEMENT WILL BE DISCARDED IN 2025.
 
-🔭 I’m currently working on
-- Java
+  *Colalolly* 02/2023
 
-:racehorse: I'm on the path of new life.
+- 🔭 I’m currently working with
+  - Java
 
+- :zap: Fun Fact: Fans of Manchester United.
 
-<!--
-**Colalolly/Colalolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :racehorse: I'm on the path of new life.
