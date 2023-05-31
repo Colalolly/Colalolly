@@ -17,6 +17,6 @@
 - 🔭 I’m currently working with
   - Java
 
-- :zap: Fun Fact: Fans of Manchester United.
+- :zap: Fun Fact: Fan of Manchester United.
 
 - :racehorse: I'm on the path of new life.
