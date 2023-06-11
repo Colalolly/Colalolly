@@ -10,7 +10,7 @@
 
   I hope this action DON'T influence your impression about me.
 
-  THIS STATEMENT WILL BE DISCARDED IN 2025.
+  THIS STATEMENT WILL BE DISCARDED IN 2024.
 
   *Colalolly* 02/2023
 
