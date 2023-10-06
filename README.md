@@ -15,8 +15,9 @@
   *Colalolly* 02/2023
 
 - 🔭 I’m currently working with
+  - Shell
   - Java
 
-- :zap: Fun Fact: Fan of Manchester United.
+- :zap: Fun Fact: Fan of Manchester United. 
 
 - :racehorse: I'm on the path of new life.
